@@ -1,0 +1,152 @@
+# macOS 系统文件
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows 系统文件
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux 系统文件
+*~
+
+# Node.js
+node_modules/
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+venv/
+
+# Java
+*.class
+*.log
+*.war
+*.jar
+target/
+
+# Rust
+target/
+
+# Go
+*.exe
+*.test
+*.out
+
+# Ruby
+*.gem
+*.rbc
+.bundle/
+vendor/
+
+# PHP
+vendor/
+composer.lock
+
+# C / C++
+*.o
+*.out
+*.exe
+*.a
+*.lib
+
+# Swift
+*.xcodeproj
+*.xcworkspace
+*.swiftpm/
+
+# Objective-C
+*.h
+*.m
+*.a
+
+# Haskell
+dist/
+
+# .NET
+bin/
+obj/
+
+# R
+.Rhistory
+.Rapp.history
+
+# Perl
+*.pl~
+*.pm~
+
+# Kotlin
+*.class
+*.jar
+*.war
+*.kotlin_module
+
+# Django
+*.log
+*.pot
+*.pyc
+*.pyo
+*.db
+*.sqlite3
+
+# TypeScript
+*.tsbuildinfo
+
+# Flutter (Dart)
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+pubspec.lock
+
+# Xcode
+*.xcodeproj
+*.xcworkspace
+*.swiftpm/
+*.playground/
+
+# IDE 配置文件
+.idea/
+.vscode/
+
+# JetBrains IDE
+.idea/
+
+# Vim 编辑器的临时文件
+*.swp
+
+# Visual Studio 配置文件
+.vs/
+
+# Eclipse 工作空间配置
+.settings/
+
+# 其他开发工具产生的文件
+*.sublime-workspace
+*.sublime-project
+
+# 临时文件
+*.log
+*.tmp
+*.bak
+
+# 操作系统生成的其他隐藏文件
+*.swp
+*.swo
+*.bak
+
+# Navicat 备份文件
+*.nb3
+*.bak
+*.sql.bak
+*.sql~
+*.dump
+
+# 保留 SQL 查询文件（以 .sql 结尾的文件）
+.gitignore.sql
+
+# 环境变量文件
+.env
